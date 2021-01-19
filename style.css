@@ -1,0 +1,59 @@
+.menu{
+    list-style: none;
+font-family: 'PT Sans', sans-serif;
+    position: fixed;
+    top: 0px;
+    right: 30px;
+    z-index:10;
+    cursor: pointer;
+    background: white;
+    width: 100%;
+    
+    
+    
+    
+}
+.links{
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left:33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    display: inline
+    
+}
+.links:hover{
+    background-color: dodgerblue;
+    text-decoration: underline;
+    
+    
+    
+}
+img{
+    width: 30%
+}
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
